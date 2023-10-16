@@ -8,10 +8,11 @@
 h1{
     text-align: center;
     padding: 15px;
-    color: rgb(0, 0, 0);
+    color: rgb(246, 0, 0) !important;
 }
 
 p{
     text-align: justify;
     color: black;
+    padding: 10px;
 }
